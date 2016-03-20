@@ -544,32 +544,32 @@ add_action( 'cmb2_init', 'garden_metabox' );
  * Custom type message board
  */
 
-function custom_message_board() {
-    register_post_type( 'message_board',
-        array(
-            'labels' => array(
-                'name' => 'Доска объявлений',
-                'singular_name' => 'Доска объявлений',
-                'add_new' => 'Добавить объявление',
-                'add_new_item' => 'Добавить объявление',
-                'edit' => 'Редактировать',
-                'edit_item' => 'Редактировать объявление',
-                'new_item' => 'Новое объявление',
-                'view' => 'Просмотр',
-                'view_item' => 'Просмотр объявлений',
-                'search_items' => 'Поиск объявлений',
-                'not_found' => 'Объявления отсуствуют',
-                'not_found_in_trash' => 'Нет удаленных объявлений'
-            ),
-            'public' => true,
-            'supports' => array( 'title', 'editor', 'comments', 'thumbnail', 'custom-fields' ),
-            'taxonomies' => array( '' ),
-            'has_archive' => true
-        )
+function custom_post_board() {
+    $labels = array(
+        'name'               => _x( 'Доска объявлений', 'post type general name' ),
+        'singular_name'      => _x( 'Доска объявлений', 'post type singular name' ),
+        'add_new'            => _x( 'Добавить объявление', 'product' ),
+        'add_new_item'       => __( 'Добавить объявление' ),
+        'edit_item'          => __( 'Редактировать объявление' ),
+        'new_item'           => __( 'Новое объявление' ),
+        'all_items'          => __( 'Все объявления' ),
+        'view_item'          => __( 'Смотреть объявления' ),
+        'search_items'       => __( 'Найти объявление' ),
+        'not_found'          => __( 'Объявления не найдены' ),
+        'not_found_in_trash' => __( 'Нет удаленных объявлений' ),
+        'parent_item_colon'  => '',
+        'menu_name'          => 'Доска объявлений'
     );
+    $args = array(
+        'labels'        => $labels,
+        'description'   => 'Доска объявлений',
+        'public'        => true,
+        'menu_position' => 25,
+        'has_archive'   => true,
+    );
+    register_post_type( 'board', $args );
 }
-
-add_action( 'init', 'custom_message_board' );
+add_action( 'init', 'custom_post_board' );
 
 ///**
 // * Metabox board

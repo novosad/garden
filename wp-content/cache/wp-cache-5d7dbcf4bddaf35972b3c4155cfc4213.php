@@ -11,7 +11,7 @@
 <head>
         <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width"/>
-            <title>СТ &quot;Золотая осень&quot;</title>
+            <title>Адрес &#8212; СТ &quot;Золотая осень&quot;</title>
 <style type='text/css'></style><link rel="alternate" type="application/rss+xml" title="СТ &quot;Золотая осень&quot; &raquo; Лента" href="http://garden.web/feed/" />
 <link rel="alternate" type="application/rss+xml" title="СТ &quot;Золотая осень&quot; &raquo; Лента комментариев" href="http://garden.web/comments/feed/" />
 		<script type="text/javascript">
@@ -48,8 +48,10 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://garden.web/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://garden.web/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.4.2" />
-<link rel="canonical" href="http://garden.web/" />
-<link rel='shortlink' href='http://garden.web/' />
+<link rel="canonical" href="http://garden.web/adres/" />
+<link rel='shortlink' href='http://garden.web/?p=8' />
+<link rel="alternate" type="application/json+oembed" href="http://garden.web/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarden.web%2Fadres%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://garden.web/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarden.web%2Fadres%2F&#038;format=xml" />
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #2d1600; }
 </style>
@@ -64,7 +66,7 @@ body.custom-background { background-color: #2d1600; }
 </style>
 </head>
 
-<body class="home page page-id-39 page-template-default logged-in admin-bar no-customize-support custom-background" id="wrapper">
+<body class="page page-id-8 page-template-default logged-in admin-bar no-customize-support custom-background" id="wrapper">
     <div class="pattern"></div>
 <div id="container">
 
@@ -79,12 +81,12 @@ body.custom-background { background-color: #2d1600; }
                     <div class="menu-box">
                 <div class="navigation-pattern"></div>
 <!--                <a class="link-home" href="--><!--"></a>-->
-                <div class="menu-topmenu-container"><ul id="nav" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-39 current_page_item menu-item-41"><a href="http://garden.web/">Главная</a></li>
+                <div class="menu-topmenu-container"><ul id="nav" class="menu"><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://garden.web/">Главная</a></li>
 <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://garden.web/plan/">План-схема</a></li>
 <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://garden.web/doska-obyavlenij/">Доска объявлений</a></li>
 <li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://garden.web/dolzhniki/">Должники</a></li>
 <li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://garden.web/normativnye-dokumenty/">Нормативные документы</a></li>
-<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="http://garden.web/adres/">Адрес</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-47"><a href="http://garden.web/adres/">Адрес</a></li>
 <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://garden.web/kontakty/">Контакты</a></li>
 <li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://garden.web/forum/">Форум</a></li>
 </ul></div>            </div>
@@ -94,10 +96,14 @@ body.custom-background { background-color: #2d1600; }
 
     <div id="main-content">
         <div id="content">    <div class="content-headline">
-      <h1 class="entry-headline"><span class="entry-headline-text">Главная</span></h1>
+      <h1 class="entry-headline"><span class="entry-headline-text">Адрес</span></h1>
     </div>
     <div class="entry-content">
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Наш адрес:<br />
+г.Гродно, ул.Сов.Пограничников, 91</p>
+<div class="address_map">
+<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=w3GNnUc5ghsduNCBtM9c6ESlhmLQQlvR&#038;width=625&#038;height=400&#038;lang=ru_RU&#038;sourceType=constructor"></script>
+</div>
 
 <div id="comments" class="comments-area comments-area-post">
 
@@ -245,7 +251,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/garden.web\/wp-content\/plugins\/contact-for
 		<li id="wp-admin-bar-menus"><a class="ab-item"  href="http://garden.web/wp-admin/nav-menus.php">Меню</a>		</li>
 		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item"  href="http://garden.web/wp-admin/themes.php?page=custom-background">Фон</a>		</li>
 		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item"  href="http://garden.web/wp-admin/themes.php?page=custom-header">Заголовок</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://garden.web/wp-admin/customize.php?url=http%3A%2F%2Fgarden.web%2F">Настроить</a>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://garden.web/wp-admin/customize.php?url=http%3A%2F%2Fgarden.web%2Fadres%2F">Настроить</a>		</li>
 		<li id="wp-admin-bar-updates"><a class="ab-item"  href="http://garden.web/wp-admin/update-core.php" title="2 обновления плагинов"><span class="ab-icon"></span><span class="ab-label">2</span><span class="screen-reader-text">2 обновления плагинов</span></a>		</li>
 		<li id="wp-admin-bar-comments"><a class="ab-item"  href="http://garden.web/wp-admin/edit-comments.php" title="0 комментариев ожидают проверки"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
 		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://garden.web/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">Добавить</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
@@ -257,17 +263,17 @@ var _wpcf7 = {"loaderUrl":"http:\/\/garden.web\/wp-content\/plugins\/contact-for
 		<li id="wp-admin-bar-new-reply"><a class="ab-item"  href="http://garden.web/wp-admin/post-new.php?post_type=reply">Ответ</a>		</li>
 		<li id="wp-admin-bar-new-message_board"><a class="ab-item"  href="http://garden.web/wp-admin/post-new.php?post_type=message_board">Доска объявлений</a>		</li>
 		<li id="wp-admin-bar-new-user"><a class="ab-item"  href="http://garden.web/wp-admin/user-new.php">Пользователя</a>		</li></ul></div>		</li>
-		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://garden.web/wp-admin/post.php?post=39&#038;action=edit">Редактировать страницу</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://garden.web/wp-admin/post.php?post=8&#038;action=edit">Редактировать страницу</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
 		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://garden.web/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Поиск</label><input type="submit" class="adminbar-button" value="Поиск"/></form></div>		</li>
 		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="http://garden.web/wp-admin/profile.php">Привет, garden<img alt='' src='http://2.gravatar.com/avatar/8a6dd0de3c40dc6b369f451f804fd52f?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8a6dd0de3c40dc6b369f451f804fd52f?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
 		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://garden.web/wp-admin/profile.php"><img alt='' src='http://2.gravatar.com/avatar/8a6dd0de3c40dc6b369f451f804fd52f?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8a6dd0de3c40dc6b369f451f804fd52f?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>garden</span></a>		</li>
 		<li id="wp-admin-bar-edit-profile"><a class="ab-item"  href="http://garden.web/wp-admin/profile.php">Изменить профиль</a>		</li>
-		<li id="wp-admin-bar-logout"><a class="ab-item"  href="http://garden.web/wp-login.php?action=logout&#038;_wpnonce=7fec8cb1bb&#038;redirect_to=http%3A%2F%2Fgarden.web%2F%3Floggedout%3Dtrue">Выйти</a>		</li></ul></div>		</li></ul>			</div>
-						<a class="screen-reader-shortcut" href="http://garden.web/wp-login.php?action=logout&#038;_wpnonce=7fec8cb1bb&#038;redirect_to=http%3A%2F%2Fgarden.web%2F%3Floggedout%3Dtrue">Выйти</a>
+		<li id="wp-admin-bar-logout"><a class="ab-item"  href="http://garden.web/wp-login.php?action=logout&#038;_wpnonce=7fec8cb1bb&#038;redirect_to=http%3A%2F%2Fgarden.web%2Fadres%2F%3Floggedout%3Dtrue">Выйти</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://garden.web/wp-login.php?action=logout&#038;_wpnonce=7fec8cb1bb&#038;redirect_to=http%3A%2F%2Fgarden.web%2Fadres%2F%3Floggedout%3Dtrue">Выйти</a>
 					</div>
 
 		     
 </body>
 </html>
-<!-- Dynamic page generated in 1.113 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2016-03-19 14:01:13 -->
+<!-- Dynamic page generated in 0.788 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-03-19 13:34:45 -->
