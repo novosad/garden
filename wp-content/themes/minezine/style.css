@@ -163,6 +163,10 @@ address {
     font-style: italic;
 }
 
+.slideshowlink{
+    display: none;
+}
+
 .address_map {
     margin-top: 30px;
 }
@@ -566,7 +570,7 @@ way to fit your requirements. */
     display: block;
     float: left;
     font-family: Oswald, Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     height: 44px;
     line-height: 44px;
     padding: 0 10px;
